@@ -148,7 +148,7 @@
         "PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://is.zobj.net/image-server/v1/images?r=7s-3nw-LwW55jWIMWuuXMR2VslKjVFWI9RNaHcqOHNCfUg5ydNWFUiYV8SYuoV2M6qsqipwsFdtzEx-wtEOrWO5cqqmsBagS-o_AZvlIa82lyzLsTi1GV7IRAGEfB86zza93znoZdWHEnFbNWPrf5wRQXV44OwYI6V9lXxYV76fiuf7SKkoZVNS-BmzRcWAmZ5YWK9ZxlkOOmURBKyY_1uirtHXUf8W4VzKYFQ",
+        "url": "https://github.com/Alyaska-fr/Alyaska/blob/main/mai_sakurajima.jpg",
         "alpha": 1
     },
     "plus": {
