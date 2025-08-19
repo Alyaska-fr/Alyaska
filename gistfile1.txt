@@ -148,7 +148,7 @@
         "PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://github.com/Alyaska-fr/Alyaska/blob/main/mai_sakurajima.jpg",
+        "url": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/mai_sakurajima.jpg",
         "alpha": 1
     },
     "plus": {
