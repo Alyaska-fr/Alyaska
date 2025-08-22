@@ -153,6 +153,13 @@
         "url": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/306507-Anime-Girls-und-Panzer-Phone-Wallpaper.jpg",
         "alpha": 0.5
     },
+    "fonts": {
+        "Baloo2-Bold": "URL_DE_TA_POLICE/Baloo2-Bold.ttf",
+        "Baloo2-ExtraBold": "URL_DE_TA_POLICE/Baloo2-ExtraBold.ttf",
+        "Baloo2-Medium": "URL_DE_TA_POLICE/Baloo2-Medium.ttf",
+        "Baloo2-Regular": "URL_DE_TA_POLICE/Baloo2-Regular.ttf",
+        "Baloo2-SemiBold": "URL_DE_TA_POLICE/Baloo2-SemiBold.ttf"
+    },
     "plus": {
         "version": 0,
         "customOverlays": true,
