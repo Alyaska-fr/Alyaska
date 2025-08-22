@@ -16,7 +16,7 @@
             "#13A10E"
         ],
         "TEXT_NORMAL": [
-            "#16C60C"
+            "#000000"
         ],
         "TEXT_SECONDARY": [
             "#16C60C"
