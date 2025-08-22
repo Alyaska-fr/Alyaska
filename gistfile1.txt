@@ -99,7 +99,7 @@
         "TEXT_MUTED": ["#2678d6","#2678d6","#2678d6"],
         "TEXT_NORMAL": ["#dcddde","#dcddde","#dcddde"],
         "TEXT_POSITIVE": ["#689d6a","#427b58","#689d6a"],
-        "TEXT_PRIMARY": ["#dcddde","#dcddde","#dcddde"],
+        "TEXT_PRIMARY": ["#7FFFD4"],
         "TEXT_WARNING": ["#fb4934","#9d0006","#cc241d"]
     },
     "rawColors": {
