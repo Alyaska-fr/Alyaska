@@ -151,7 +151,7 @@
     "background": {
         "blur": 1.0,
         "url": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/306507-Anime-Girls-und-Panzer-Phone-Wallpaper.jpg",
-        "alpha": 1
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
