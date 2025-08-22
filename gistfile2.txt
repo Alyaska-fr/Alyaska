@@ -150,7 +150,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/306507-Anime-Girls-und-Panzer-Phone-Wallpaper.jpg",
-        "alpha": 0.5
+        "alpha": 0.75
     },
     "fonts": {
         "Baloo2-Bold": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/Baloo2-Bold.ttf",
