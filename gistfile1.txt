@@ -57,7 +57,7 @@
         "FOCUS_PRIMARY": ["#0a2848","#dcddde","#000000"],
         "GUILD_HEADER_TEXT_SHADOW": ["#0a2848","#dcddde","#000000"],
         "HEADER_PRIMARY": ["#dcddde","#0a2848","#dcddde"],
-        "HEADER_SECONDARY": ["#556B2F"],
+        "HEADER_SECONDARY": ["#2780E6","#2780E6","#2780E6"],
         "INFO_DANGER_BACKGROUND": ["#0a2848","#dcddde","#071e36"],
         "INFO_DANGER_FOREGROUND": ["#061428","#7eb3f0","#000000"],
         "INFO_DANGER_TEXT": ["#fb4934","#9d0006","#fb4934"],
@@ -95,11 +95,11 @@
         "TEXTBOX_MARKDOWN_SYNTAX": ["#076678","#076678","#076678"],
         "TEXT_DANGER": ["#fb4934","#9d0006","#fb4934"],
         "TEXT_LINK": ["#2780E6","#2780E6","#2780E6"],
-        "TEXT_LINK_LOW_SATURATION": ["#dcddde","#0a2848","#dcddde"],
+        "TEXT_LINK_LOW_SATURATION": ["#B22222"],
         "TEXT_MUTED": ["#556B2F"],
         "TEXT_NORMAL": ["#dcddde","#dcddde","#dcddde"],
         "TEXT_POSITIVE": ["#689d6a","#427b58","#689d6a"],
-        "TEXT_PRIMARY": ["#1C1C1C"],
+        "TEXT_PRIMARY": ["#7FFFD4"],
         "TEXT_WARNING": ["#fb4934","#9d0006","#cc241d"]
     },
     "rawColors": {
