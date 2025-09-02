@@ -57,7 +57,7 @@
         "FOCUS_PRIMARY": ["#0a2848","#dcddde","#000000"],
         "GUILD_HEADER_TEXT_SHADOW": ["#0a2848","#dcddde","#000000"],
         "HEADER_PRIMARY": ["#dcddde","#0a2848","#dcddde"],
-        "HEADER_SECONDARY": ["#2780E6","#2780E6","#2780E6"],
+        "HEADER_SECONDARY": ["#556B2F"],
         "INFO_DANGER_BACKGROUND": ["#0a2848","#dcddde","#071e36"],
         "INFO_DANGER_FOREGROUND": ["#061428","#7eb3f0","#000000"],
         "INFO_DANGER_TEXT": ["#fb4934","#9d0006","#fb4934"],
@@ -99,7 +99,7 @@
         "TEXT_MUTED": ["#2678d6","#2678d6","#2678d6"],
         "TEXT_NORMAL": ["#dcddde","#dcddde","#dcddde"],
         "TEXT_POSITIVE": ["#689d6a","#427b58","#689d6a"],
-        "TEXT_PRIMARY": ["#7FFFD4"],
+        "TEXT_PRIMARY": ["#1C1C1C"],
         "TEXT_WARNING": ["#fb4934","#9d0006","#cc241d"]
     },
     "rawColors": {
@@ -152,13 +152,6 @@
         "blur": 1.0,
         "url": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/306507-Anime-Girls-und-Panzer-Phone-Wallpaper.jpg",
         "alpha": 0.5
-    },
-    "fonts": {
-        "Baloo2-Bold": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/Baloo2-Bold.ttf",
-        "Baloo2-ExtraBold": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/Baloo2-ExtraBold.ttf",
-        "Baloo2-Medium": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/Baloo2-Medium.ttf",
-        "Baloo2-Regular": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/Baloo2-Regular.ttf",
-        "Baloo2-SemiBold": "https://raw.githubusercontent.com/Alyaska-fr/Alyaska/main/Baloo2-SemiBold.ttf"
     },
     "plus": {
         "version": 0,
